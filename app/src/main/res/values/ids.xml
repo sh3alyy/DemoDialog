@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonDemo4" type="id">@/string/d4</item>
+    <item name="buttonDemo6" type="id">@/string/b6</item>
+    <item name="textViewDemo6" type="id">@/string/t6</item>
+</resources>
